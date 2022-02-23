@@ -1,2 +1,2 @@
 # BaekJoon
-BaekJoon Algorithms (JAVA)
+BaekJoon Algorithms
